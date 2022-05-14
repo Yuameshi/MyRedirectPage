@@ -35,6 +35,10 @@ div.main {
 	border-bottom: 1.5px #fff solid;
 	animation: stretch 1.5s ease;
 }
+a{
+	color: #fff;
+	font-weight: bold;
+}
 @keyframes stretch {
 	0% {
 		opacity: 0;
